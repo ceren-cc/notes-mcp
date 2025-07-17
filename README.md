@@ -1,5 +1,5 @@
-📌 Bu proje, [itsmerizzi/mcp-server](https://github.com/itsmerizzi/mcp-server) adlı açık kaynak projeden öğrenme amacıyla uyarlanmıştır.
-Bu orijinal proje MIT lisansı altındadır.
+📌 This project is adapted for learning purposes from the open-source repository [itsmerizzi/mcp-server](https://github.com/itsmerizzi/mcp-server).  
+The original project is licensed under the MIT License.
 
 # 📝 AI Notes (MCP Server)
 
