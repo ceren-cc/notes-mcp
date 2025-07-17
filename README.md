@@ -34,13 +34,15 @@ These are exposed via the MCP protocol so that an AI assistant (like Claude) can
 ├── file_funct.py       # (Optional) File functions if modularized
 ├── requirements.txt    # Dependencies
 └── README.md           # You're here!
+```
 
 ---
 
-1. Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/weather-mcp.git
    cd weather-mcp
+   ```
 
 ---
 
