@@ -1,3 +1,6 @@
+📌 Bu proje, [itsmerizzi/mcp-server](https://github.com/itsmerizzi/mcp-server) adlı açık kaynak projeden öğrenme amacıyla uyarlanmıştır.
+Bu orijinal proje MIT lisansı altındadır.
+
 # 📝 AI Notes (MCP Server)
 
 This is a simple yet powerful **MCP server** that allows an AI like **Claude** to read, write, and summarize sticky notes using the [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol).
