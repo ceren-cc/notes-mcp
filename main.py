@@ -7,7 +7,7 @@ import os
 '''
 
 # Create a MCP Server
-mcp = "AI Notes"
+mcp = FastMCP("AI Notes")
 '''
     Starts an MCP server named "AI Notes".
     Through this server, you can define tools (@mcp.tool()), resources (@mcp.resource()), and prompts (@mcp.prompt()).
@@ -79,3 +79,6 @@ def note_summary_prompt() -> str:
         return "No notes yet."
     else:
         return f"Summarize the current notes: {content}"
+    
+if __name__ == "__main__":
+    mcp.run(transport="stdio")
